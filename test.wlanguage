@@ -1,0 +1,4 @@
+MonImage est une Image
+MonImage = "MonImage.jpg"
+MonImage.ModifieLuminosité(50)
+MonImage.SauveJPEG("MonImageModifiée.jpg")
